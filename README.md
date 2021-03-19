@@ -7,7 +7,7 @@ cd build
 cmake ..
 make
 ```
-## Exucute
+## Execute
 ```
 ./jpeg_decoder [JPEG file]
 ```
